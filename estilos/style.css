@@ -83,7 +83,6 @@ div.campo > span{
     font-size: 2em;
     width: 40px;
     padding: 10px;
-}
 
 div.campo > input{
     background-color: #94cfcd;
@@ -139,8 +138,3 @@ form > a.botao:hover{
 form > a.botao > i{
     font-size: 0.8em;
 }
-
-
-
-
-
